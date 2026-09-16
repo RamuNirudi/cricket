@@ -1,0 +1,6 @@
+{
+  "name": "Cricket Score Tracker & Tournament Archive",
+  "description": "Real-time ball-by-ball cricket scoring, player performance statistics, custom team builder, and historical tournament archives.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
